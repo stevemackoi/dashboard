@@ -1,2 +1,2 @@
 # dashboard
-HOMER dashboard config
+HOMER dashboard config (.yml)
